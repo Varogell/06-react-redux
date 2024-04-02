@@ -35,42 +35,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 menampilkan button yang ketika diklik menampilkan pop up
 
-## Praktikum 2
+### Praktikum 2
 
-Blog
+![Screenshot](asset/02.png)
+menampilkan tampilan login dan log out
 
-![Screenshot](asset/04.png)
+### pertanyaan 2
 
-First Blog 
+Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan method tersebut?
 
-![Screenshot](asset/05.png)
-
-Second Blog 
-
-![Screenshot](asset/06.png)
-
-# Pertanyaan 
-Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
-
-# Jawaban pertanyaan
-Terlalu banyak tingkat nesting dalam routing dapat membingungkan bagi pengguna dan mengurangi pengalaman pengguna yang optimal
-
-## Praktikum 3
-
-Product
-
-![Screenshot](asset/07.png)
-
-Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
-
-![Screenshot](asset/08.png)
-
-Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
-
-![Screenshot](asset/09.png)
-
-## Praktikum 4
-
-Home
-
-![Screenshot](asset/10.png)
+### Jawaban 2
+maka tidak muncul output login dan log out
