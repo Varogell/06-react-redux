@@ -46,3 +46,9 @@ Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggu
 
 ### Jawaban 2
 maka tidak muncul output login dan log out
+
+### Praktikum 3
+
+![Screenshot](asset/03.png)
+
+menampilkan button untuk menambah dan mengurangi counter
